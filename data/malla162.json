@@ -1,0 +1,352 @@
+[
+  {
+    "semestre": "I",
+    "asignatura": "Biología Celular y Molecular",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "I",
+    "asignatura": "Morfofisiología I",
+    "creditos": 5,
+    "horas_directas": 160,
+    "horas_independientes": 80
+  },
+  {
+    "semestre": "I",
+    "asignatura": "Pensamiento Lógico, Complejo y Alfabetización en Datos",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "I",
+    "asignatura": "Epistemología de la Fisioterapia",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "I",
+    "asignatura": "Lectura y Escritura Académica (FISH)",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "I",
+    "asignatura": "Cultura, Comunicación y Educación para la Salud",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "I",
+    "asignatura": "Cátedra Unicauca",
+    "creditos": 1,
+    "horas_directas": 16,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "II",
+    "asignatura": "Bioquímica del movimiento",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "II",
+    "asignatura": "Morfofisiología II",
+    "creditos": 5,
+    "horas_directas": 160,
+    "horas_independientes": 80
+  },
+  {
+    "semestre": "II",
+    "asignatura": "Psicología de la Salud y el Movimiento Humano",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "II",
+    "asignatura": "Curso de Vida y Movimiento Humano I",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "II",
+    "asignatura": "Ética de la alteridad",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "II",
+    "asignatura": "Funcionamiento, Discapacidad y Participación",
+    "creditos": 3,
+    "horas_directas": 48,
+    "horas_independientes": 96
+  },
+  {
+    "semestre": "III",
+    "asignatura": "Bioética y Ética Profesional en Fisioterapia",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "III",
+    "asignatura": "Morfofisiología III",
+    "creditos": 5,
+    "horas_directas": 160,
+    "horas_independientes": 80
+  },
+  {
+    "semestre": "III",
+    "asignatura": "Evaluación y Diagnóstico Fisioterapéutico I",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "III",
+    "asignatura": "Curso de Vida y Movimiento Humano II",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "III",
+    "asignatura": "Biomecánica del Movimiento Humano",
+    "creditos": 2,
+    "horas_directas": 64,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "III",
+    "asignatura": "Fundamentos en Salud Pública y Atención Primaria en Salud",
+    "creditos": 3,
+    "horas_directas": 48,
+    "horas_independientes": 96
+  },
+  {
+    "semestre": "IV",
+    "asignatura": "Práctica I (Salud Pública)",
+    "creditos": 5,
+    "horas_directas": 208,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "IV",
+    "asignatura": "Evaluación y Diagnóstico Fisioterapéutico II",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "IV",
+    "asignatura": "Movimiento, Ejercicio y Adaptación humana",
+    "creditos": 4,
+    "horas_directas": 64,
+    "horas_independientes": 128
+  },
+  {
+    "semestre": "IV",
+    "asignatura": "Epidemiología, Demografía y Bioestadística",
+    "creditos": 3,
+    "horas_directas": 48,
+    "horas_independientes": 96
+  },
+  {
+    "semestre": "IV",
+    "asignatura": "Fundamentos de Salud laboral",
+    "creditos": 4,
+    "horas_directas": 64,
+    "horas_independientes": 128
+  },
+  {
+    "semestre": "V",
+    "asignatura": "Práctica II (Laboral)",
+    "creditos": 5,
+    "horas_directas": 208,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "V",
+    "asignatura": "Técnicas de Intervención Fisioterapéuticas I",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "V",
+    "asignatura": "Evaluación y Diagnóstico Fisioterapéutico III",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "V",
+    "asignatura": "Prescripción del ejercicio I",
+    "creditos": 2,
+    "horas_directas": 64,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "V",
+    "asignatura": "Modalidades terapéuticas en fisioterapia",
+    "creditos": 2,
+    "horas_directas": 64,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "V",
+    "asignatura": "Corporeidad y Movimiento",
+    "creditos": 1,
+    "horas_directas": 16,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "VI",
+    "asignatura": "Práctica III (Actividad Física y Deporte)",
+    "creditos": 5,
+    "horas_directas": 208,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "VI",
+    "asignatura": "Técnicas de Intervención Fisioterapéuticas II",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "VI",
+    "asignatura": "Prescripción del ejercicio II",
+    "creditos": 2,
+    "horas_directas": 64,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "VI",
+    "asignatura": "Investigación I",
+    "creditos": 3,
+    "horas_directas": 48,
+    "horas_independientes": 96
+  },
+  {
+    "semestre": "VI",
+    "asignatura": "Tecnología en Fisioterapia y Rehabilitación",
+    "creditos": 3,
+    "horas_directas": 48,
+    "horas_independientes": 96
+  },
+  {
+    "semestre": "VI",
+    "asignatura": "Farmacología para fisioterapeutas",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "VII",
+    "asignatura": "Práctica IV (Consulta Externa)",
+    "creditos": 5,
+    "horas_directas": 208,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "VII",
+    "asignatura": "Técnicas de Intervención Fisioterapéuticas III",
+    "creditos": 3,
+    "horas_directas": 96,
+    "horas_independientes": 48
+  },
+  {
+    "semestre": "VII",
+    "asignatura": "Investigación II",
+    "creditos": 3,
+    "horas_directas": 48,
+    "horas_independientes": 96
+  },
+  {
+    "semestre": "VII",
+    "asignatura": "Liderazgo, Marketing Digital y Marca Personal del Fisioterapeuta",
+    "creditos": 3,
+    "horas_directas": 48,
+    "horas_independientes": 96
+  },
+  {
+    "semestre": "VII",
+    "asignatura": "Administración y Calidad en Servicios de Salud",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "VIII",
+    "asignatura": "Práctica V (Internación)",
+    "creditos": 10,
+    "horas_directas": 416,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "VIII",
+    "asignatura": "Investigación Formativa / Trabajo de Grado I / Semillero",
+    "creditos": 4,
+    "horas_directas": 64,
+    "horas_independientes": 128
+  },
+  {
+    "semestre": "VIII",
+    "asignatura": "Emprendimiento e Innovación en Fisioterapia",
+    "creditos": 3,
+    "horas_directas": 48,
+    "horas_independientes": 96
+  },
+  {
+    "semestre": "IX",
+    "asignatura": "Práctica Integrada de Profundización y Desempeño Profesional",
+    "creditos": 10,
+    "horas_directas": 416,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "IX",
+    "asignatura": "Investigación / Trabajo de Grado II / Diplomado / Semillero",
+    "creditos": 4,
+    "horas_directas": 64,
+    "horas_independientes": 128
+  },
+  {
+    "semestre": "Flexible",
+    "asignatura": "Ética (FISH)",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "Flexible",
+    "asignatura": "Formación Ciudadana (FISH)",
+    "creditos": 1,
+    "horas_directas": 16,
+    "horas_independientes": 32
+  },
+  {
+    "semestre": "Flexible",
+    "asignatura": "Electiva FISH",
+    "creditos": 2,
+    "horas_directas": 32,
+    "horas_independientes": 64
+  },
+  {
+    "semestre": "Flexible",
+    "asignatura": "Laboratorio de Vida Activa y Experiencia Corporal (200 h certificadas por la Vicerrectoría de Cultura y Bienestar)",
+    "creditos": 4,
+    "horas_directas": 64,
+    "horas_independientes": 128
+  }
+]

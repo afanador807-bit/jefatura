@@ -1,0 +1,1000 @@
+[
+  {
+    "docente": "Afanador Restrepo Diego Fernando",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Doctorado",
+    "docencia_directa_2026_2_h_sem": 23,
+    "otras_funciones_2026_2_h_sem": 13.08,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.94,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 11.14
+    },
+    "tope_docencia_directa_regla_20_12": 17.95,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia osteomuscular": 4,
+      "biomecanica (l)": 2
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 6
+    }
+  },
+  {
+    "docente": "Amezquita Londoño Adriana Patricia",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "ASOCIADO",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 20,
+    "otras_funciones_2026_2_h_sem": 4.31,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.8,
+      "inv": 1.73,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0.78
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia neurologica": 16,
+      "electiva de profundizacion": 1
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia neurologica": 17
+    }
+  },
+  {
+    "docente": "Bravo Suarez Adriana Milena",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 20,
+    "otras_funciones_2026_2_h_sem": 2.83,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.97,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0.86
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia neurologica": 6
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia neurologica": 6
+    }
+  },
+  {
+    "docente": "Campos Bermudez Liset Viviana",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASISTENTE",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 19,
+    "otras_funciones_2026_2_h_sem": 19.51,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 3.74,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 15.77
+    },
+    "tope_docencia_directa_regla_20_12": 13.66,
+    "historico_asignaturas_ponderado": {
+      "salud comunitaria": 1,
+      "demografia y estadistica": 10,
+      "intervencion en comunidad y trabajo": 15,
+      "fundamentos de comunidad y trabajo": 9,
+      "discapacidad y rehabilitacion": 6
+    },
+    "historico_ejes_ponderado": {
+      "comunidad y trabajo": 35,
+      "transversal": 6
+    }
+  },
+  {
+    "docente": "Celis Quinayás Viviana Marcela",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 13,
+    "otras_funciones_2026_2_h_sem": 23.38,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.97,
+      "inv": 0,
+      "proy": 0,
+      "serv": 9.85,
+      "otr": 3.68
+    },
+    "tope_docencia_directa_regla_20_12": 11.08,
+    "historico_asignaturas_ponderado": {
+      "practica en actividad fisica y deporte": 18,
+      "electiva de profundizacion en el deporte": 1,
+      "electiva de profundizacion": 13,
+      "practica en fisioterapia osteomuscular": 6,
+      "tecnicas manuales en fisioterapia (l)": 1
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia en actividad fisica y deporte": 24,
+      "fisioterapia osteomuscular": 7,
+      "actividad fisica y deporte": 8
+    }
+  },
+  {
+    "docente": "Cerón Espinosa Shara Paola",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 18,
+    "otras_funciones_2026_2_h_sem": 2.78,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.94,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0.84
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "intervencion en comunidad y trabajo": 2,
+      "practica en fisioterapia cardiopulmunar y cuidado critico": 6
+    },
+    "historico_ejes_ponderado": {
+      "comunidad y trabajo": 2,
+      "fisioterapia cardiopulmonar y cuidado critico": 6
+    }
+  },
+  {
+    "docente": "Diaz Vidal Diana Milena",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 23,
+    "otras_funciones_2026_2_h_sem": 3.64,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.95,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 1.69
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia cardiopulmunar y cuidado critico": 2,
+      "evaluacion y diagnostico en fisioterapia cardiopulmonar i (l)": 2
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia cardiopulmonar y cuidado critico": 4
+    }
+  },
+  {
+    "docente": "Escobar Reinoso María Claudia",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "ASISTENTE",
+    "nivel_estudios": "Especialización",
+    "docencia_directa_2026_2_h_sem": 20,
+    "otras_funciones_2026_2_h_sem": 2.83,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.97,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0.86
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia cardiopulmunar y cuidado critico": 12,
+      "evaluacion y diagnostico en fisioterapia cardiopulmonar i (l)": 5,
+      "electiva de profundizacion": 5
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia cardiopulmonar y cuidado critico": 22
+    }
+  },
+  {
+    "docente": "Fernandez Carlos Alberto",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Especialización",
+    "docencia_directa_2026_2_h_sem": 20,
+    "otras_funciones_2026_2_h_sem": 2.83,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.97,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0.86
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia cardiopulmunar y cuidado critico": 9,
+      "evaluacion y diagnostico en fisioterapia cardiopulmonar i (l)": 1,
+      "electiva de profundizacion": 1,
+      "evaluacion y diagnostico en fisioterapia cardiopulmonar ii (l)": 1
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia cardiopulmonar y cuidado critico": 12
+    }
+  },
+  {
+    "docente": "Gonzalez Rojas Tatiana",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 21,
+    "otras_funciones_2026_2_h_sem": 13.28,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.93,
+      "inv": 0,
+      "proy": 0,
+      "serv": 1.93,
+      "otr": 1.68
+    },
+    "tope_docencia_directa_regla_20_12": 17.82,
+    "historico_asignaturas_ponderado": {
+      "salud publica y epidemiologia": 1,
+      "intervencion en comunidad y trabajo": 15,
+      "demografia y estadistica": 7,
+      "fundamentos de comunidad y trabajo": 4,
+      "comunicacion y educacion en salud": 2
+    },
+    "historico_ejes_ponderado": {
+      "comunidad y trabajo": 27,
+      "transversal": 2
+    }
+  },
+  {
+    "docente": "Hoyos Quisoboni Jeffry Alexander",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "ASISTENTE",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 14,
+    "otras_funciones_2026_2_h_sem": 3.76,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.95,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 1.82
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "electiva de profundizacion en el deporte": 1,
+      "practica en actividad fisica y deporte": 26,
+      "prescripcion del ejercicio": 16,
+      "electiva de profundizacion": 15,
+      "seminario de produndizacion": 4,
+      "biomecanica (l)": 1
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia en actividad fisica y deporte": 44,
+      "transversal": 4,
+      "fisioterapia osteomuscular": 3,
+      "actividad fisica y deporte": 12
+    }
+  },
+  {
+    "docente": "Hurtado Paz Juan Martin",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 13,
+    "otras_funciones_2026_2_h_sem": 2.73,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.9,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0.83
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "biomecanica (l)": 1,
+      "practica en actividad fisica y deporte": 10,
+      "electiva de profundizacion": 8
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 1,
+      "fisioterapia en actividad fisica y deporte": 10,
+      "actividad fisica y deporte": 8
+    }
+  },
+  {
+    "docente": "Jacome Velasco Sandra Jimena",
+    "vinculacion": "Planta",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "ASOCIADO",
+    "nivel_estudios": "Doctorado",
+    "docencia_directa_2026_2_h_sem": 4,
+    "otras_funciones_2026_2_h_sem": 14.85,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 1.44,
+      "ase": 2.89,
+      "inv": 9.26,
+      "proy": 0,
+      "serv": 0,
+      "otr": 1.26
+    },
+    "tope_docencia_directa_regla_20_12": 3.09,
+    "historico_asignaturas_ponderado": {
+      "demografia y estadistica": 2,
+      "intervencion en comunidad y trabajo": 1,
+      "electiva de profundizacion": 2,
+      "fundamentos de investigacion cualitativa": 9,
+      "electiva de investigacion": 3,
+      "fundamentos de investigacion cuantitativa": 7
+    },
+    "historico_ejes_ponderado": {
+      "comunidad y trabajo": 5,
+      "transversal": 19
+    }
+  },
+  {
+    "docente": "Ledezma Chavez Betsy Mercedes",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASOCIADO",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 20,
+    "otras_funciones_2026_2_h_sem": 13.8,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 10.36,
+      "inv": 1.8,
+      "proy": 0,
+      "serv": 0,
+      "otr": 1.64
+    },
+    "tope_docencia_directa_regla_20_12": 17.47,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia osteomuscular": 15,
+      "evaluacion y diagnostico en fisioterapia osteomuscular ii (l)": 14,
+      "intervencion en comunidad y trabajo": 1,
+      "tecnicas manuales en fisioterapia (l)": 3
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 32,
+      "comunidad y trabajo": 1
+    }
+  },
+  {
+    "docente": "Londoño Prieto Jeronimo",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "TITULAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 24,
+    "otras_funciones_2026_2_h_sem": 8.31,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 3.92,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 4.39
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia neurologica": 9,
+      "modalidades fisicas (l)": 13,
+      "electiva de investigacion": 1,
+      "evaluacion y diagnostico en fisioterapia neurologica i (l)": 7,
+      "practica en fisioterapia osteomuscular": 1,
+      "seminario de profundizacion": 2
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia neurologica": 16,
+      "fisioterapia osteomuscular": 14,
+      "transversal": 3
+    }
+  },
+  {
+    "docente": "Mazabel Cuasquer Clara Ximena",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 26,
+    "otras_funciones_2026_2_h_sem": 9.27,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.82,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0.16
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia osteomuscular": 9,
+      "tecnicas manuales en fisioterapia (l)": 9,
+      "evaluacion y diagnostico en fisioterapia osteomuscular i (l)": 5
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 23
+    }
+  },
+  {
+    "docente": "Mendez Narvaez Monica Andrea",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASISTENTE",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 22,
+    "otras_funciones_2026_2_h_sem": 8.2,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.89,
+      "inv": 1.81,
+      "proy": 0,
+      "serv": 0,
+      "otr": 4.49
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia neurologica": 5,
+      "bioetica y legislacion en salud": 8,
+      "electiva de profundizacion": 11,
+      "ciclo vital y movimiento": 1,
+      "practica en fisioterapia osteomuscular": 7
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia neurologica": 17,
+      "transversal": 8,
+      "fisioterapia osteomuscular": 7
+    }
+  },
+  {
+    "docente": "Mora Montilla Maria Alejandra",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 24,
+    "otras_funciones_2026_2_h_sem": 6.88,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.89,
+      "inv": 0.49,
+      "proy": 0,
+      "serv": 1.89,
+      "otr": 2.6
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "ciclo vital y movimiento": 12,
+      "practica en fisioterapia neurologica": 11,
+      "bioetica y legislacion en salud": 8,
+      "practica en fisioterapia osteomuscular": 1
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia neurologica": 23,
+      "transversal": 8,
+      "fisioterapia osteomuscular": 1
+    }
+  },
+  {
+    "docente": "Mosquera Chamorro Hector Jaime",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASOCIADO",
+    "nivel_estudios": "Especialización",
+    "docencia_directa_2026_2_h_sem": 25,
+    "otras_funciones_2026_2_h_sem": 4.26,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.96,
+      "inv": 0,
+      "proy": 0,
+      "serv": 1.96,
+      "otr": 0.34
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "electiva de profundizacion fisioterapia cardiopulmonar, rehabilitacioncardiaca": 1,
+      "practica en fisioterapia cardiopulmunar y cuidado critico": 14,
+      "electiva de profundizacion": 13,
+      "evaluacion y diagnostico en fisioterapia cardiopulmonar ii (l)": 8
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia cardiopulmonar y cuidado critico": 36
+    }
+  },
+  {
+    "docente": "Ordoñez Patiño Eiber Dario",
+    "vinculacion": "Planta",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "ASISTENTE",
+    "nivel_estudios": "Especialización",
+    "docencia_directa_2026_2_h_sem": 15,
+    "otras_funciones_2026_2_h_sem": 3.77,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 2.02,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 1.75
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia cardiopulmunar y cuidado critico": 9,
+      "electiva de profundizacion": 9,
+      "evaluacion y diagnostico en fisioterapia cardiopulmonar i (l)": 6
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia cardiopulmonar y cuidado critico": 24
+    }
+  },
+  {
+    "docente": "Parra Muñoz Joanne Jimena",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Especialización",
+    "docencia_directa_2026_2_h_sem": 13,
+    "otras_funciones_2026_2_h_sem": 2.73,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.9,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0.83
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "electiva de profundizacion en ortopedia y traumatologia": 1,
+      "practica en fisioterapia osteomuscular": 2,
+      "electiva de profundizacion": 4,
+      "evaluacion y diagnostico en fisioterapia osteomuscular ii (l)": 4
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 11
+    }
+  },
+  {
+    "docente": "Patiño Galindez Franklin Rene",
+    "vinculacion": "Cátedra",
+    "dedicacion": "Cátedra",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Especialización",
+    "docencia_directa_2026_2_h_sem": 4,
+    "otras_funciones_2026_2_h_sem": 0,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 0,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0
+    },
+    "tope_docencia_directa_regla_20_12": 4,
+    "historico_asignaturas_ponderado": {
+      "electiva de profundizacion": 8,
+      "fundamentos de comunidad y trabajo": 2,
+      "intervencion en comunidad y trabajo": 4,
+      "demografia y estadistica": 2
+    },
+    "historico_ejes_ponderado": {
+      "comunidad y trabajo": 16
+    }
+  },
+  {
+    "docente": "Paz Medina Marialucia",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASOCIADO",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 28,
+    "otras_funciones_2026_2_h_sem": 9.41,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.93,
+      "inv": 0,
+      "proy": 5.38,
+      "serv": 1.93,
+      "otr": 0.17
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "salud comunitaria": 1,
+      "comunicacion y educacion en salud": 10,
+      "practica en actividad fisica y deporte": 17,
+      "intervencion en comunidad y trabajo": 8,
+      "fisiologia del ejercicio": 6,
+      "practica en fisioterapia osteomuscular": 6
+    },
+    "historico_ejes_ponderado": {
+      "comunidad y trabajo": 19,
+      "fisioterapia en actividad fisica y deporte": 19,
+      "fisioterapia osteomuscular": 6,
+      "actividad fisica y deporte": 4
+    }
+  },
+  {
+    "docente": "Pérez Hurtado María Cristina",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 23,
+    "otras_funciones_2026_2_h_sem": 6.65,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.97,
+      "inv": 0,
+      "proy": 0,
+      "serv": 1.97,
+      "otr": 2.7
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "electiva de profundizacion en ortopedia y traumatologia": 2,
+      "electiva de profundizacion": 7,
+      "intervencion en comunidad y trabajo": 1,
+      "practica en fisioterapia osteomuscular": 9,
+      "tecnicas manuales en fisioterapia (l)": 1,
+      "evaluacion y diagnostico en fisioterapia osteomuscular i (l)": 4
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 23,
+      "comunidad y trabajo": 1
+    }
+  },
+  {
+    "docente": "Ramirez Rivera Blanca Sofia",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASISTENTE",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 26,
+    "otras_funciones_2026_2_h_sem": 6.92,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.82,
+      "inv": 2.61,
+      "proy": 0,
+      "serv": 0,
+      "otr": 2.49
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "tecnicas de facilitacion (l)": 14,
+      "practica en fisioterapia neurologica": 16,
+      "evaluacion y diagnostico en fisioterapia neurologica i (l)": 2,
+      "evaluacion y diagnostico en fisioterapia neurologica ii (l)": 3
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia neurologica": 35
+    }
+  },
+  {
+    "docente": "Ramos Valencia Omar Andres",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASOCIADO",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 22,
+    "otras_funciones_2026_2_h_sem": 9.51,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 5.91,
+      "inv": 0.17,
+      "proy": 0,
+      "serv": 0,
+      "otr": 3.43
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "fundamentos de comunidad y trabajo": 1,
+      "salud publica y epidemiologia": 16,
+      "intervencion en comunidad y trabajo": 2,
+      "electiva de profundizacion": 4
+    },
+    "historico_ejes_ponderado": {
+      "comunidad y trabajo": 23
+    }
+  },
+  {
+    "docente": "Rengifo Tello Angela Maria",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Medio tiempo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 17,
+    "otras_funciones_2026_2_h_sem": 2.76,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.92,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0.84
+    },
+    "tope_docencia_directa_regla_20_12": 12,
+    "historico_asignaturas_ponderado": {
+      "intervencion en comunidad y trabajo": 11,
+      "comunicacion y educacion en salud": 4
+    },
+    "historico_ejes_ponderado": {
+      "comunidad y trabajo": 13,
+      "transversal": 2
+    }
+  },
+  {
+    "docente": "Restrepo Puentes Cristina Eugenia",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 15,
+    "otras_funciones_2026_2_h_sem": 23.3,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 3.68,
+      "inv": 0,
+      "proy": 1.72,
+      "serv": 7.35,
+      "otr": 10.55
+    },
+    "tope_docencia_directa_regla_20_12": 11.14,
+    "historico_asignaturas_ponderado": {
+      "intervencion en comunidad y trabajo": 16,
+      "fundamentos de comunidad y trabajo": 11
+    },
+    "historico_ejes_ponderado": {
+      "comunidad y trabajo": 27
+    }
+  },
+  {
+    "docente": "Rivera Rujana Diana Maria",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASISTENTE",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 23,
+    "otras_funciones_2026_2_h_sem": 6.72,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 1.94,
+      "inv": 0.17,
+      "proy": 0,
+      "serv": 0,
+      "otr": 4.6
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia osteomuscular": 10,
+      "biomecanica (l)": 16,
+      "tecnicas manuales en fisioterapia (l)": 1,
+      "seminario de produndizacion": 5,
+      "seminario de profundizacion": 2
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 27,
+      "transversal": 7
+    }
+  },
+  {
+    "docente": "Salazar Dulcey Mabel Lorena",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASISTENTE",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 20,
+    "otras_funciones_2026_2_h_sem": 13.62,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 11.74,
+      "inv": 0.17,
+      "proy": 0,
+      "serv": 0,
+      "otr": 1.7
+    },
+    "tope_docencia_directa_regla_20_12": 17.59,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia osteomuscular": 3,
+      "ciclo vital y movimiento": 3,
+      "tecnicas de facilitacion (l)": 6,
+      "evaluacion y diagnostico en fisioterapia neurologica ii (l)": 1,
+      "practica en fisioterapia neurologica": 13
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 3,
+      "fisioterapia neurologica": 23
+    }
+  },
+  {
+    "docente": "Torres Andrade Maria Veronica",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "TITULAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 8,
+    "otras_funciones_2026_2_h_sem": 31.03,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 16.64,
+      "ase": 1.66,
+      "inv": 9.84,
+      "proy": 0,
+      "serv": 0,
+      "otr": 2.89
+    },
+    "tope_docencia_directa_regla_20_12": 5.98,
+    "historico_asignaturas_ponderado": {
+      "tecnicas manuales en fisioterapia (l)": 2,
+      "fundamentos de investigacion cualitativa": 3,
+      "epistemologia de la fisioterapia": 16,
+      "practica en fisioterapia osteomuscular": 10,
+      "electiva de investigacion": 9
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 12,
+      "transversal": 28
+    }
+  },
+  {
+    "docente": "Torres Ramirez Isabela",
+    "vinculacion": "Ocasional",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "AUXILIAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 24,
+    "otras_funciones_2026_2_h_sem": 6.74,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 3.9,
+      "inv": 0.17,
+      "proy": 0,
+      "serv": 0,
+      "otr": 2.67
+    },
+    "tope_docencia_directa_regla_20_12": 20,
+    "historico_asignaturas_ponderado": {
+      "practica en fisioterapia cardiopulmunar y cuidado critico": 16,
+      "evaluacion y disgnostico en fisioterapia cardiopulmonar ii (l)": 1,
+      "electiva de profundizacion": 7,
+      "modalidades de intervencion cardiopulmonar (l)": 3,
+      "evaluacion y diagnostico en fisioterapia cardiopulmonar ii (l)": 3,
+      "practica en actividad fisica y deporte": 9
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia cardiopulmonar y cuidado critico": 30,
+      "fisioterapia en actividad fisica y deporte": 7,
+      "actividad fisica y deporte": 2
+    }
+  },
+  {
+    "docente": "Tovar Ruiz Luz Angela",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "TITULAR",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 10,
+    "otras_funciones_2026_2_h_sem": 26.6,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 18.13,
+      "ase": 3.63,
+      "inv": 0,
+      "proy": 1.69,
+      "serv": 0,
+      "otr": 3.15
+    },
+    "tope_docencia_directa_regla_20_12": 8.93,
+    "historico_asignaturas_ponderado": {
+      "evaluacion y diagnostico en fisioterapia neurologica ii (l)": 14,
+      "electiva de profundizacion neuropediatria": 2,
+      "electiva de profundizacion": 10,
+      "evaluacion y diagnostico en fisioterapia neurologica i (l)": 7,
+      "seminario de profundizacion": 4
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia neurologica": 33,
+      "transversal": 4
+    }
+  },
+  {
+    "docente": "Urrutia Illera Isabella Maria",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASOCIADO",
+    "nivel_estudios": "Especialización",
+    "docencia_directa_2026_2_h_sem": 0,
+    "otras_funciones_2026_2_h_sem": 40,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 0,
+      "inv": 0,
+      "proy": 0,
+      "serv": 0,
+      "otr": 0
+    },
+    "tope_docencia_directa_regla_20_12": 0,
+    "historico_asignaturas_ponderado": {
+      "modalidades de intervencion cardiopulmonar (l)": 14,
+      "electiva de profundizacion fisioterapia cardiopulmonar, rehabilitacioncardiaca": 1,
+      "practica en fisioterapia cardiopulmunar y cuidado critico": 14,
+      "electiva de profundizacion": 3
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia cardiopulmonar y cuidado critico": 32
+    }
+  },
+  {
+    "docente": "Vernaza Pinzon Paola",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "TITULAR",
+    "nivel_estudios": "Doctorado",
+    "docencia_directa_2026_2_h_sem": 10,
+    "otras_funciones_2026_2_h_sem": 24.14,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 5.92,
+      "inv": 11.83,
+      "proy": 0,
+      "serv": 1.97,
+      "otr": 4.42
+    },
+    "tope_docencia_directa_regla_20_12": 10.58,
+    "historico_asignaturas_ponderado": {
+      "electiva de profundizacion": 4
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia osteomuscular": 4
+    }
+  },
+  {
+    "docente": "Villaquiran Hurtado Andres Felipe",
+    "vinculacion": "Planta",
+    "dedicacion": "Tiempo completo",
+    "escalafon": "ASISTENTE",
+    "nivel_estudios": "Maestría",
+    "docencia_directa_2026_2_h_sem": 12,
+    "otras_funciones_2026_2_h_sem": 13.4,
+    "otras_funciones_desglose_h_sem": {
+      "adm": 0,
+      "ase": 4.6,
+      "inv": 0.2,
+      "proy": 0,
+      "serv": 4.6,
+      "otr": 4
+    },
+    "tope_docencia_directa_regla_20_12": 17.73,
+    "historico_asignaturas_ponderado": {
+      "electiva de profundizacion": 12,
+      "practica en actividad fisica y deporte": 4
+    },
+    "historico_ejes_ponderado": {
+      "fisioterapia en actividad fisica y deporte": 14,
+      "actividad fisica y deporte": 2
+    }
+  }
+]

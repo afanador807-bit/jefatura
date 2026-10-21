@@ -1,0 +1,676 @@
+[
+  {
+    "codigo": "T01",
+    "asignatura": "Pensamiento Lógico, Complejo y Alfabetización en Datos",
+    "semestre": "I",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 2,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "demografia",
+        1
+      ],
+      [
+        "fundamentos de investigacion cuanti",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": true
+  },
+  {
+    "codigo": "T02",
+    "asignatura": "Epistemología de la Fisioterapia",
+    "semestre": "I",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 2,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "epistemologia",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T03",
+    "asignatura": "Cultura, Comunicación y Educación para la Salud",
+    "semestre": "I",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 2,
+    "grupos": 1,
+    "eje": "Comunidad y trabajo",
+    "claves_historicas": [
+      [
+        "comunicacion y educacion",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T04",
+    "asignatura": "Cátedra Unicauca",
+    "semestre": "I",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 1,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "epistemologia",
+        0.5
+      ],
+      [
+        "bioetica y legis",
+        0.5
+      ]
+    ],
+    "nueva_sin_antecedente": true
+  },
+  {
+    "codigo": "T06",
+    "asignatura": "Curso de Vida y Movimiento Humano I",
+    "semestre": "II",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 6,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "ciclo vital",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T07",
+    "asignatura": "Ética y bioética en fisioterapia (fusión de Ética de la alteridad y Bioética)",
+    "semestre": "II",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 3,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "bioetica y legis",
+        1
+      ],
+      [
+        "discapacidad y rehab",
+        0.5
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T08",
+    "asignatura": "Funcionamiento, Discapacidad y Participación",
+    "semestre": "II",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 3,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "discapacidad y rehab",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T10",
+    "asignatura": "Evaluación y Diagnóstico Fisioterapéutico I",
+    "semestre": "III",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 6,
+    "grupos": 1,
+    "eje": "Osteomuscular",
+    "claves_historicas": [
+      [
+        "evaluacion y diagnostico en fisioterapia osteo",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T11",
+    "asignatura": "Curso de Vida y Movimiento Humano II",
+    "semestre": "III",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 6,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "ciclo vital",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T12",
+    "asignatura": "Biomecánica del Movimiento Humano",
+    "semestre": "III",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 4,
+    "grupos": 1,
+    "eje": "Osteomuscular",
+    "claves_historicas": [
+      [
+        "biomecanica",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T13",
+    "asignatura": "Fundamentos en Salud Pública y Atención Primaria en Salud",
+    "semestre": "III",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 3,
+    "grupos": 1,
+    "eje": "Comunidad y trabajo",
+    "claves_historicas": [
+      [
+        "salud publica y epid",
+        1
+      ],
+      [
+        "fundamentos de comunidad",
+        0.5
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "P1",
+    "asignatura": "Práctica I (Salud Pública)",
+    "semestre": "IV",
+    "tipo": "Práctica",
+    "horas_semana_por_grupo": 13,
+    "grupos": 4,
+    "eje": "Comunidad y trabajo",
+    "claves_historicas": [
+      [
+        "intervencion en comunidad",
+        1
+      ],
+      [
+        "salud comunitaria",
+        1
+      ],
+      [
+        "fundamentos de comunidad",
+        0.3
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T14",
+    "asignatura": "Evaluación y Diagnóstico Fisioterapéutico II",
+    "semestre": "IV",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 6,
+    "grupos": 1,
+    "eje": "Neurológica",
+    "claves_historicas": [
+      [
+        "evaluacion y diagnostico en fisioterapia neuro",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T15",
+    "asignatura": "Movimiento, Ejercicio y Adaptación humana",
+    "semestre": "IV",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 3,
+    "grupos": 1,
+    "eje": "Actividad física y deporte",
+    "claves_historicas": [
+      [
+        "fisiologia del ejercicio",
+        1
+      ],
+      [
+        "prescripcion del ejercicio",
+        0.5
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T16",
+    "asignatura": "Epidemiología, Demografía y Bioestadística",
+    "semestre": "IV",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 3,
+    "grupos": 1,
+    "eje": "Comunidad y trabajo",
+    "claves_historicas": [
+      [
+        "salud publica y epid",
+        1
+      ],
+      [
+        "demografia",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T17",
+    "asignatura": "Fundamentos de Salud laboral",
+    "semestre": "IV",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 4,
+    "grupos": 1,
+    "eje": "Comunidad y trabajo",
+    "claves_historicas": [
+      [
+        "fundamentos de comunidad",
+        1
+      ],
+      [
+        "intervencion en comunidad",
+        0.3
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "P2",
+    "asignatura": "Práctica II (Laboral)",
+    "semestre": "V",
+    "tipo": "Práctica",
+    "horas_semana_por_grupo": 13,
+    "grupos": 4,
+    "eje": "Comunidad y trabajo",
+    "claves_historicas": [
+      [
+        "intervencion en comunidad",
+        1
+      ],
+      [
+        "fundamentos de comunidad",
+        0.3
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T18",
+    "asignatura": "Técnicas de Intervención Fisioterapéuticas I con modalidades (fusión)",
+    "semestre": "V",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 8,
+    "grupos": 1,
+    "eje": "Osteomuscular",
+    "claves_historicas": [
+      [
+        "tecnicas manuales",
+        1
+      ],
+      [
+        "modalidades fisicas",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T19",
+    "asignatura": "Evaluación y Diagnóstico Fisioterapéutico III",
+    "semestre": "V",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 6,
+    "grupos": 1,
+    "eje": "Cardiopulmonar",
+    "claves_historicas": [
+      [
+        "EDC",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T20",
+    "asignatura": "Prescripción del ejercicio (fusión de I y II)",
+    "semestre": "V",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 6,
+    "grupos": 1,
+    "eje": "Actividad física y deporte",
+    "claves_historicas": [
+      [
+        "prescripcion del ejercicio",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T22",
+    "asignatura": "Corporeidad y Movimiento",
+    "semestre": "V",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 1,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "epistemologia",
+        0.5
+      ],
+      [
+        "discapacidad y rehab",
+        0.5
+      ]
+    ],
+    "nueva_sin_antecedente": true
+  },
+  {
+    "codigo": "P3",
+    "asignatura": "Práctica III (Actividad Física y Deporte)",
+    "semestre": "VI",
+    "tipo": "Práctica",
+    "horas_semana_por_grupo": 13,
+    "grupos": 4,
+    "eje": "Actividad física y deporte",
+    "claves_historicas": [
+      [
+        "practica en actividad fisica",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T23",
+    "asignatura": "Técnicas de Intervención Fisioterapéuticas II",
+    "semestre": "VI",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 6,
+    "grupos": 1,
+    "eje": "Neurológica",
+    "claves_historicas": [
+      [
+        "tecnicas de facilitacion",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T25",
+    "asignatura": "Investigación I",
+    "semestre": "VI",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 2,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "fundamentos de investigacion cuanti",
+        1
+      ],
+      [
+        "electiva de investigacion",
+        0.5
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T26",
+    "asignatura": "Tecnología en Fisioterapia y Rehabilitación",
+    "semestre": "VI",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 2,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "modalidades fisicas",
+        0.5
+      ],
+      [
+        "modalidades de intervencion cardio",
+        0.5
+      ]
+    ],
+    "nueva_sin_antecedente": true
+  },
+  {
+    "codigo": "P4",
+    "asignatura": "Práctica IV (Consulta Externa)",
+    "semestre": "VII",
+    "tipo": "Práctica",
+    "horas_semana_por_grupo": 13,
+    "grupos": 6,
+    "eje": "Clínica",
+    "claves_historicas": [
+      [
+        "practica en fisioterapia osteo",
+        1
+      ],
+      [
+        "practica en fisioterapia neuro",
+        0.4
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T27",
+    "asignatura": "Técnicas de Intervención Fisioterapéuticas III",
+    "semestre": "VII",
+    "tipo": "Teórico-práctica",
+    "horas_semana_por_grupo": 6,
+    "grupos": 1,
+    "eje": "Cardiopulmonar",
+    "claves_historicas": [
+      [
+        "modalidades de intervencion cardio",
+        1
+      ],
+      [
+        "EDC",
+        0.5
+      ],
+      [
+        "practica en fisioterapia cardio",
+        0.3
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T28",
+    "asignatura": "Investigación II",
+    "semestre": "VII",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 2,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "fundamentos de investigacion cuali",
+        1
+      ],
+      [
+        "electiva de investigacion",
+        0.5
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T29",
+    "asignatura": "Liderazgo, emprendimiento e innovación (fusión)",
+    "semestre": "VIII",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 3,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [],
+    "nueva_sin_antecedente": true
+  },
+  {
+    "codigo": "T30",
+    "asignatura": "Administración y Calidad en Servicios de Salud",
+    "semestre": "VII",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 2,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [],
+    "nueva_sin_antecedente": true
+  },
+  {
+    "codigo": "P5N",
+    "asignatura": "Práctica V (Internación) · rotación neurológica",
+    "semestre": "VIII",
+    "tipo": "Práctica",
+    "horas_semana_por_grupo": 6.5,
+    "grupos": 2,
+    "eje": "Clínica",
+    "claves_historicas": [
+      [
+        "practica en fisioterapia neuro",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "P5O",
+    "asignatura": "Práctica V (Internación) · rotación osteomuscular",
+    "semestre": "VIII",
+    "tipo": "Práctica",
+    "horas_semana_por_grupo": 6.5,
+    "grupos": 2,
+    "eje": "Clínica",
+    "claves_historicas": [
+      [
+        "practica en fisioterapia osteo",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "P5C",
+    "asignatura": "Práctica V (Internación) · rotación cardiopulmonar",
+    "semestre": "VIII",
+    "tipo": "Práctica",
+    "horas_semana_por_grupo": 6.5,
+    "grupos": 4,
+    "eje": "Clínica",
+    "claves_historicas": [
+      [
+        "practica en fisioterapia cardio",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T31",
+    "asignatura": "Investigación Formativa / Trabajo de Grado I / Semillero",
+    "semestre": "VIII",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 3,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "electiva de investigacion",
+        1
+      ],
+      [
+        "seminario de pro",
+        0.5
+      ],
+      [
+        "fundamentos de investigacion cuanti",
+        0.3
+      ],
+      [
+        "fundamentos de investigacion cuali",
+        0.3
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "P6",
+    "asignatura": "Práctica Integrada de Profundización y Desempeño Profesional",
+    "semestre": "IX",
+    "tipo": "Práctica",
+    "horas_semana_por_grupo": 26,
+    "grupos": 6,
+    "eje": "Clínica",
+    "claves_historicas": [
+      [
+        "electiva de profundizacion",
+        1
+      ],
+      [
+        "practica en fisioterapia osteo",
+        0.3
+      ],
+      [
+        "practica en fisioterapia neuro",
+        0.3
+      ],
+      [
+        "practica en fisioterapia cardio",
+        0.3
+      ],
+      [
+        "practica en actividad fisica",
+        0.3
+      ],
+      [
+        "intervencion en comunidad",
+        0.3
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  },
+  {
+    "codigo": "T33",
+    "asignatura": "Investigación / Trabajo de Grado II / Diplomado / Semillero",
+    "semestre": "IX",
+    "tipo": "Teórica",
+    "horas_semana_por_grupo": 3,
+    "grupos": 1,
+    "eje": "Transversal",
+    "claves_historicas": [
+      [
+        "seminario de pro",
+        1
+      ],
+      [
+        "electiva de investigacion",
+        1
+      ]
+    ],
+    "nueva_sin_antecedente": false
+  }
+]
